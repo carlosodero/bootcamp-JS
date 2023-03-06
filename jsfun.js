@@ -147,7 +147,7 @@ if (dart3Shoot === 'bull\'s eye') {
   console.log('You get a ' + dart3Shoot + '!!! Dart 3 is 50 points!');
 } else if (dart3Shoot === 'bull\'s eye simple') {
   console.log('You get a ' + dart3Shoot + '!!! Dart 3 is 25 points!');
-} else {dart3Shoot
+} else {
   console.log('You get a ' + dart3Shoot + ' on ' + dart3InitialValue +'!!! Dart 3 is ' + dart3Value + ' points!');
 }
 
